@@ -3,12 +3,13 @@ Hi 👋 My name is vishnuka yahan
 
 Software Engineer
 -----------------
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishnuka084&label=Profile%20views&color=0e75b6&style=flat" alt="Vishnuka084" /> </p>
 I love logical Thinking and code
 
 * 🌍  I'm based in Sri Lanka
 * 🖥️  See my portfolio at [https://vishnuka084.github.io/My\_Profile/](http://myProfile)
 * ✉️  You can contact me at [vishnukayahan708@gmail.com](mailto:vishnukayahan708@gmail.com)
+
 
 ### Skills
 
