@@ -33,4 +33,3 @@ I love logical Thinking and code
 
 <a href="http://www.github.com/Vishnuka084"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vishnuka084&bg_color=000000&color=3382ed&line=ef4444&point=3382ed&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Vishnuka084" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnuka084&langs_count=10&title_color=facc15&text_color=3382ed&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
