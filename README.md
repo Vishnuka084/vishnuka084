@@ -7,7 +7,7 @@ Software Engineer
 I love logical Thinking and code
 
 * 🌍  I'm based in Sri Lanka
-* 🖥️  See my portfolio at [https://vishnuka084.github.io/My\_Profile/](http://myProfile)
+* 🖥️  See my portfolio at [https://vishnuka084.github.io/MyProfile_2.0version/)
 * ✉️  You can contact me at [vishnukayahan708@gmail.com](mailto:vishnukayahan708@gmail.com)
   
 
