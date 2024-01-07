@@ -1,36 +1,31 @@
-Hi 👋 My name is vishnuka yahan
-=============================== 
+## <p align ="center">Hi, I'm Vishnuka Yahan De Silva<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt= "kavindu-mane" width="35"> </p>
 
-Software Engineer
------------------
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishnuka084&label=Profile%20views&color=0e75b6&style=flat" alt="Vishnuka084" /> </p>
-I love logical Thinking and code
+<div align = "center">
+    <img src = "https://github.com/kavindu-mane/kavindu-mane/blob/main/Code%20typing-bro.svg" alt= "vishnuka-yahan" width="500"/>
+</div>
 
-* 🌍  I'm based in Sri Lanka
-* 🖥️  See my portfolio at [https://vishnuka084.github.io/MyProfile_2.0version/)
-* ✉️  You can contact me at [vishnukayahan708@gmail.com](mailto:vishnukayahan708@gmail.com)
-  
+🌱 &ensp; ***I’m currently learning React JS, Java, React-Native, Spring, Next.js***
 
+### Connect With Me:
+<div align="center">
+    <a href="https://www.instagram.com/lucas_de_silva0/?hl=en"><img src="https://img.shields.io/badge/Instagram-Vishnuka%20%20Yahan-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="vishnuka-yahan"/></a><br>
+    <a href="https://www.linkedin.com/in/vishnuka-yahan-870063262/"><img src="https://img.shields.io/badge/LinkedIn-Vishnuka%20%20Yahan-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="vishnuka-yahan"/></a>&nbsp; &nbsp;
+</div>
 
-### Skills
-
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Vishnuka084" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/lucas_de_silva" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/vishnuka yahan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Vishnuka084"><img src="https://github-readme-stats.vercel.app/api?username=Vishnuka084&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=3382ed&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="Vishnuka084's GitHub stats" /></a>
-
-<a href="http://www.github.com/Vishnuka084"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnuka084&stroke=3382ed&background=000000&ring=facc15&fire=facc15&currStreakNum=3382ed&currStreakLabel=facc15&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
-
-<a href="http://www.github.com/Vishnuka084"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vishnuka084&bg_color=000000&color=3382ed&line=ef4444&point=3382ed&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
+### Languages , Frameworks & Tools:
+![JavaScript](https://img.shields.io/badge/javascript-1B2430.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;
+![Python](https://img.shields.io/badge/python-1B2430.svg?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp;
+![Java](https://img.shields.io/badge/java-1B2430.svg?style=for-the-badge&logo=openjdk&logoColor=white) &nbsp;
+![PHP](https://img.shields.io/badge/php-1B2430.svg?style=for-the-badge&logo=php&logoColor=white) &nbsp;
+![HTML5](https://img.shields.io/badge/html5-1B2430.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
+![CSS3](https://img.shields.io/badge/css3-1B2430.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
+![MySQL](https://img.shields.io/badge/mysql-1B2430.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
+![Firebase](https://img.shields.io/badge/firebase-1B2430.svg?style=for-the-badge&logo=firebase) &nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-1B2430.svg?style=for-the-badge&logo=bootstrap&logoColor=white) &nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-1B2430.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) &nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-1B2430.svg?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;
+![React](https://img.shields.io/badge/react-1B2430.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;
+![Next](https://img.shields.io/badge/next.js-1B2430.svg?style=for-the-badge&logo=next.js&logoColor=white) &nbsp;
+![Android](https://img.shields.io/badge/android-1B2430.svg?style=for-the-badge&logo=android&logoColor=%2361DAFB) &nbsp;
+![Flutter](https://img.shields.io/badge/flutter-1B2430.svg?style=for-the-badge&logo=flutter&logoColor=%2342A5F5) &nbsp;
+![Figma](https://img.shields.io/badge/figma-1B2430.svg?style=for-the-badge&logo=figma&logoColor=white) &nbsp;
