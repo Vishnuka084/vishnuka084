@@ -29,3 +29,25 @@
 ![Android](https://img.shields.io/badge/android-1B2430.svg?style=for-the-badge&logo=android&logoColor=%2361DAFB) &nbsp;
 ![Flutter](https://img.shields.io/badge/flutter-1B2430.svg?style=for-the-badge&logo=flutter&logoColor=%2342A5F5) &nbsp;
 ![Figma](https://img.shields.io/badge/figma-1B2430.svg?style=for-the-badge&logo=figma&logoColor=white) &nbsp;
+
+
+### GitHub Statistics:
+
+<div align="center">
+    <table>
+        <tr>
+            <td align="right">
+                <img src="https://github-readme-stats.vercel.app/api?username=vishnuka084&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="vishnuka-yahan" />
+            </td>
+            <td rowspan="2">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuka084&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&langs_count=8" alt="vishnuka-yahan" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnuka084&theme=blue-green&hide_border=false" alt="vishnuka-yahan" />
+            </td>
+        </tr>
+    </table>
+</div>
+ <br>
