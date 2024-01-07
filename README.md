@@ -55,6 +55,7 @@
 
  <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=vishnuka084&theme=radical&no-frame=false&no-bg=false&margin-w=5&margin-h=5&column=4" alt="vishnuka-yahan" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnuka084&label=Profile%20views&color=0e75b6&style=flat" alt="vishnuka-yahan" /> </p>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C063%20hrs%2031%20mins-blue)
 
