@@ -30,7 +30,6 @@
 ![Flutter](https://img.shields.io/badge/flutter-1B2430.svg?style=for-the-badge&logo=flutter&logoColor=%2342A5F5) &nbsp;
 ![Figma](https://img.shields.io/badge/figma-1B2430.svg?style=for-the-badge&logo=figma&logoColor=white) &nbsp;
 
-
 ### GitHub Statistics:
 
 <div align="center">
